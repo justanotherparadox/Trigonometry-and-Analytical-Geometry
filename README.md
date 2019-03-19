@@ -13,4 +13,6 @@ I will be adding some practice material and links to study other concepts.
 
 Analytical Geometry:
 
+I will be providing my hand written notes and other materials which will be for a first course.
 
+Hilton's Plane Algebraic Curves----> It is one of the best texts out there and is one of a kind but certainly not for a first course.
