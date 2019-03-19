@@ -7,3 +7,5 @@ Visualization is important !
    covers almost all of the fundamental concepts.
    
 2. Next we will approach tougher topics.
+
+I will be adding some practice material and links to study other concepts.
